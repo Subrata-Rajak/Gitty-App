@@ -1,5 +1,8 @@
 # Gitty
+
 An intuitive task app built with <span style="color: blue;">**Flutter**</span>, <span style="color: yellow;">**Firebase**</span> and <span style="color: green;">**Nodejs**</span>.
+
+Download the debug apk of the app from [APK](https://drive.google.com/file/d/1LJz_2r1TlTWyv-joDhXySTaxQiiObKBK/view?usp=sharing)
 
 ## Table of Contents
 
